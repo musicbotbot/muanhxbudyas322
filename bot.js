@@ -20,8 +20,8 @@ const gif = require("gif-search");
 
 const client = new Discord.Client({disableEveryone: true});
 
-const prefix = "$";
-var adminprefix = '$'
+const prefix = "m*";
+var adminprefix = 'm*'
 /////////////////////////
 ////////////////////////
 
